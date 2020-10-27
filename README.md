@@ -15,5 +15,3 @@ Boss Rush Mutator
 
 Prefix descriptions doc
 https://docs.google.com/document/d/1fi7hq2LzH0iTQ7c4ptX3GbQSko9hb3PxCglMttE275k/edit?usp=sharing
-
-## Mylazt, come on, make a repository already ##
